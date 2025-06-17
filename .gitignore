@@ -8,3 +8,5 @@ obj/
 *.js
 *.map
 *.user
+
+node_modules/
